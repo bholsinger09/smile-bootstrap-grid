@@ -20,8 +20,14 @@
   outline-color: yellow;
   height: 10vh;
 }
-.col-sm {
+.col-md {
   outline-style: dotted;
   outline-color:green;
+  height: 10vh;
+}
+
+.col-lg {
+  outline-style: dotted;
+  outline-color:orange;
   height: 10vh;
 }
