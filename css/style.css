@@ -1,3 +1,17 @@
 .container{
-  outline:1px solid black;
+  outline-style: dashed;
+  outline-color: black;
+  height: 10vh;
+}
+
+.row{
+  outline-style: dotted;
+  outline-color: aquamarine;
+  height: 10vh;
+}
+
+.col{
+  outline-style: solid;
+  outline-color: blue;
+  height: 10vh;
 }
