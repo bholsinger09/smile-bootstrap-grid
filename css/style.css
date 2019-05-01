@@ -15,3 +15,13 @@
   outline-color: blue;
   height: 10vh;
 }
+.col-sm {
+  outline-style: dotted;
+  outline-color: yellow;
+  height: 10vh;
+}
+.col-sm {
+  outline-style: dotted;
+  outline-color:green;
+  height: 10vh;
+}
